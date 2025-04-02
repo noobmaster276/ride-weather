@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Under%20Development-orange" />
   <img src="https://img.shields.io/badge/Made%20With-React%20Native%20|%20Node.js-blue" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
+  <img src="https://img.shields.io/badge/License-Apache%202.0-green" />
 </p>
 
 ---
