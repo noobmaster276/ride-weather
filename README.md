@@ -1,6 +1,6 @@
-<h1 align="center">🏍️ Biker Ride Planner</h1>
+<h1 align="center">🏍️ Ride-Weather</h1>
 <p align="center">
-  <b>Smart Ride Suggestions Based on Weather Forecasts 🌦️</b>  
+  <b>Plan Your Rides with the Best Weather Conditions 🌦️</b>  
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Under%20Development-orange" />
@@ -11,21 +11,27 @@
 ---
 
 ## 🚀 About the Project  
-### **Plan Your Rides with Confidence!**  
-This app helps bikers find the **best days for riding** by analyzing weekly weather forecasts.  
-No more unexpected rain ruining your adventure! **Stay safe, ride smart.**  
+### **Your Smart Biking Companion!**  
+**Ride-Weather** is an intelligent app that helps bikers find the **best days for riding** by analyzing real-time weather forecasts.  
+No more surprise rain showers ruining your adventure—**plan ahead and ride smart!**  
 
 ---
 
 ## 🌟 Features  
-✔️ **Weather-Based Ride Recommendations** – Get 🚦green (suitable) or ❌red (unsuitable) ride days.  
-✔️ **Live Weather Data** – Fetch real-time weather forecasts via API.  
+✔️ **Weather-Based Ride Recommendations** – Get 🚦green (ideal) or ❌red (not recommended) ride days.  
+✔️ **Live Weather Data** – Fetches real-time weather forecasts via API.  
 ✔️ **Smart Route Planning** – Suggests the best days & routes to avoid bad weather.  
-✔️ **Custom Preferences** – Set your own thresholds for ideal riding conditions.  
+✔️ **Custom Preferences** – Allows users to set their ideal riding conditions.  
 ✔️ **Ride Alerts & Notifications** – Get reminders for the best upcoming ride days!  
 
 ---
 
+## 🎨 Screenshots  
+<p align="center">
+  <img src="bikeride.jpg" width="300" alt="Ride-Weather Screenshot"/>
+</p>
+
+---
 
 ## 🛠️ Tech Stack  
 📱 **Frontend:** React Native / Flutter (for mobile UI)  
@@ -39,5 +45,5 @@ No more unexpected rain ruining your adventure! **Stay safe, ride smart.**
 
 ### 🔥 1. Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/biker-ride-planner.git
-cd biker-ride-planner
+git clone https://github.com/yourusername/ride-weather.git
+cd ride-weather
